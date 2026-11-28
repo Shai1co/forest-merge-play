@@ -1,0 +1,26 @@
+{
+  "loaderUrl": "Build/WebGL.loader.28fc5c26e9.js",
+  "parts": {
+    "data": {
+      "url": "Build/WebGL.data.da7993405f.gz",
+      "size": 39027422,
+      "raw": 47606278
+    },
+    "framework.js": {
+      "url": "Build/WebGL.framework.b96d4f0062.gz",
+      "size": 79749,
+      "raw": 341316
+    },
+    "wasm": {
+      "url": "Build/WebGL.wasm.49a8b131a5.gz",
+      "size": 11036127,
+      "raw": 39131786
+    }
+  },
+  "streamingAssetsUrl": "StreamingAssets-21bdcd5e23",
+  "companyName": "DefaultCompany",
+  "productName": "Forest Merge Tower Defense",
+  "productVersion": "0.1.0",
+  "label": "v7 (main d441d57)",
+  "packedAt": "2026-11-28T03:42:30.515Z"
+}
